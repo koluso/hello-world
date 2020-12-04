@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Hi! I am learning how git works and I would describe myself as an autodidact.
